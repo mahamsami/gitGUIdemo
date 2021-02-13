@@ -1,1 +1,1 @@
-Git version 1.1
+Git version 1.2
